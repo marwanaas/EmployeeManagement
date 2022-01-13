@@ -1,0 +1,12 @@
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\bin\Debug\net5.0\Employeemanagmenet.model.deps.json
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\bin\Debug\net5.0\Employeemanagmenet.model.dll
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\bin\Debug\net5.0\ref\Employeemanagmenet.model.dll
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\bin\Debug\net5.0\Employeemanagmenet.model.pdb
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.csproj.AssemblyReference.cache
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.AssemblyInfoInputs.cache
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.AssemblyInfo.cs
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.csproj.CoreCompileInputs.cache
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.dll
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\ref\Employeemanagmenet.model.dll
+C:\Users\anaas\source\repos\EmployeeManagement\Employeemanagmenet.model\obj\Debug\net5.0\Employeemanagmenet.model.pdb
